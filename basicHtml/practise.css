@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first_page{
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+}
+.first_page > .header-content{
+background-color: blueviolet;
+height: 100px;
+}
+.first_page > .section-content{
+    background-color: chocolate;
+    height:400px;
+}
+.first_page > .footercontent{
+    background-color: darkred;
+    height:100px;
+}
